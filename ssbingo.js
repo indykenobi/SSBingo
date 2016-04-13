@@ -188,7 +188,6 @@ bingoList[23] = [
 bingoList[24] = [
   { name: "12 Heart Pieces", types: ["Hearts"] },
   { name: "Both Lumpy Pumpkin Heart Pieces", types: ["Pumpkin", "Hearts", "Harp", "Imp"] },
-  { name: "No Back in Time glitch", types: ["BiT", "Restriction"] },
   { name: "40 Gratitude Crystals", types: ["Crystals"] },
   { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },
   { name: "Goddess Shield", types: ["Shields", "Imp"] },
@@ -199,7 +198,6 @@ bingoList[25] = [
   { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
   { name: "3 Unique Iron Shields", types: ["Shields"] },
   { name: "Blessed Idol", types: ["Harp", "Scale"] },
-  { name: "Never save", types: ["BiT", "Restriction"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
