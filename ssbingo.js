@@ -122,7 +122,7 @@ bingoList[15] = [
   { name: "3 Unique Wooden Shields", types: ["Shields"] },
 ];
 bingoList[16] = [
-  { name: "7 Pouch Slots", types: ["Pouch"] },
+  { name: "7 Pouch Slots", types: ["Pouch", "Rupees"] },
   { name: "1000 Rupees", types: ["Rupees"] },
   { name: "8 Heart Pieces", types: ["Hearts"] },
   { name: "30 Bombs", types: ["Ammo"] },
@@ -135,7 +135,7 @@ bingoList[17] = [
   { name: "Temple of Time Bird Statue", types: ["Statues", "LMF"] },
   { name: "Ballad of the Goddess", types: ["Harp"] },
   { name: "Mallara's Gratitude Crystals", types: ["Crystals"] },
-  { name: "Lock a windmill into place", types: ["Misc"] },
+  { name: "Turn a windmill", types: ["Misc"] },
 ];
 bingoList[18] = [
   { name: "Cursed Medal", types: ["Medals", "Crystals"] },
@@ -151,7 +151,7 @@ bingoList[19] = [
   { name: "Sacred Shield", types: ["Shields"] },
   { name: "Summon a Gossip Stone", types: ["Harp"] },
   { name: "Open all LMF Chests", types: ["LMF", "Chests"] },
-  { name: "Water Dragon's Scale", types: ["Harp", "Scale"] },
+  { name: "Water Dragon's Scale", types: ["Harp", "BiT", "Scale"] },
 ];
 bingoList[20] = [
   { name: "5 Lanayru Goddess Cubes", types: ["Lanayru", "Cubes"] },
@@ -196,7 +196,7 @@ bingoList[24] = [
 bingoList[25] = [
   { name: "No Back in Time glitch", types: ["BiT", "Restriction"] },
   { name: "Never save", types: ["BiT", "Restriction"] },
-  { name: "8 Pouch Slots", types: ["Pouch"] },
+  { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
   { name: "3 Unique Iron Shields", types: ["Shields"] },
   { name: "Goddess Shield", types: ["Shields"] },
   { name: "40 Gratitude Crystals", types: ["Crystals"] },
