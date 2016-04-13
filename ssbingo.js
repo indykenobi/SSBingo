@@ -1,4 +1,4 @@
-var bingoListVersion = "2.0";
+var bingoListVersion = "2.1";
 var bingoList = [];
 
 bingoList[1] = [
@@ -147,7 +147,7 @@ bingoList[18] = [
 ];
 bingoList[19] = [
   { name: "Baby's Rattle", types: ["Misc"] },
-  { name: "Reseal the Imprisoned", types: ["Harp"] },
+  { name: "Reseal the Imprisoned", types: ["Harp", "Imp"] },
   { name: "Sacred Shield", types: ["Shields"] },
   { name: "Summon a Gossip Stone", types: ["Harp"] },
   { name: "Open all LMF Chests", types: ["LMF", "Chests"] },
@@ -171,35 +171,35 @@ bingoList[21] = [
 ];
 bingoList[22] = [
   { name: "Talk to Yerbal", types: ["Harp"] },
-  { name: "Repair Scrapper", types: ["Harp"] },
+  { name: "Repair Scrapper", types: ["Harp", "Imp"] },
   { name: "Cawlin's Letter", types: ["Harp"] },
   { name: "Air Potion", types: ["Potion", "Scale"] },
   { name: "Get Fairies from Goddess Wall", types: ["Harp"] },
-  { name: "Lake Floria Goddess Cube", types: ["Harp, Cube"] },
+  { name: "Lake Floria Goddess Cube", types: ["Harp", "Cubes", "Scale"] },
 ];
 bingoList[23] = [
   { name: "Fortified Shield", types: ["Shields"] },
   { name: "Tough Beetle", types: ["Upgrade"] },
   { name: "Stamina Potion+", types: ["Potion"] },
-  { name: "Air Potion+", types: ["Potion"] },
+  { name: "Air Potion+", types: ["Potion", "Scale"] },
   { name: "Divine Shield", types: ["Shields"] },
   { name: "5 Unique Shields", types: ["Shields"] },
 ];
 bingoList[24] = [
-  { name: "No Goddess Cubes", types: ["Cubes", "Restriction"] },
-  { name: "Never sleep to night", types: ["Restriction"] },
   { name: "12 Heart Pieces", types: ["Hearts"] },
-  { name: "Both Lumpy Pumpkin Heart Pieces", types: ["Pumpkin", "Hearts", "Harp"] },
-  { name: "Gorko's Heart Piece", types: ["Hearts", "Harp"] },
-  { name: "Sacred Water", types: ["Harp"] },
+  { name: "Both Lumpy Pumpkin Heart Pieces", types: ["Pumpkin", "Hearts", "Harp", "Imp"] },
+  { name: "No Back in Time glitch", types: ["BiT", "Restriction"] },
+  { name: "40 Gratitude Crystals", types: ["Crystals"] },
+  { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },
+  { name: "Goddess Shield", types: ["Shields", "Imp"] },
 ];
 bingoList[25] = [
-  { name: "No Back in Time glitch", types: ["BiT", "Restriction"] },
-  { name: "Never save", types: ["BiT", "Restriction"] },
+  { name: "Gorko's Heart Piece", types: ["Hearts", "Harp"] },
+  { name: "Sacred Water", types: ["Harp"] },
   { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
   { name: "3 Unique Iron Shields", types: ["Shields"] },
-  { name: "Goddess Shield", types: ["Shields"] },
-  { name: "40 Gratitude Crystals", types: ["Crystals"] },
+  { name: "Blessed Idol", types: ["Harp", "Scale"] },
+  { name: "Never save", types: ["BiT", "Restriction"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
