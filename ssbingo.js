@@ -148,7 +148,7 @@ bingoList[18] = [
 bingoList[19] = [
   { name: "Baby's Rattle", types: ["Misc"] },
   { name: "Reseal the Imprisoned", types: ["Harp"] },
-  { name: "Sacred Shield", types: ["Shields"] }
+  { name: "Sacred Shield", types: ["Shields"] },
   { name: "Summon a Gossip Stone", types: ["Harp"] },
   { name: "Open all LMF Chests", types: ["LMF", "Chests"] },
   { name: "Water Dragon's Scale", types: ["Harp", "Scale"] },
