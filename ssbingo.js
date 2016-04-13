@@ -117,7 +117,7 @@ bingoList[15] = [
   { name: "Large Slingshot Satchel", types: ["Ammo", "Upgrade"] },
   { name: "4 Unique Shields", types: ["Shields"] },
   { name: "Large Bomb Bag", types: ["Ammo", "Upgrade"] },
-  { name: "Scattershot", types: ["Upgrade"] },
+  { name: "Scattershot", types: ["Upgrade", "Harp"] },
   { name: "Obtain one of every treasure", types: ["Treasures"] },
   { name: "3 Unique Wooden Shields", types: ["Shields"] },
 ];
