@@ -92,7 +92,7 @@ bingoList[11] = [
 bingoList[12] = [
   { name: "Kina's Pumpkin Carrying Game", types: ["Pumpkin"] },
   { name: "Both Faron Heart Pieces", types: ["Faron", "Hearts"] },
-  { name: "Zelda's Heart Piece", types: ["End", "Hearts"] },
+  { name: "Zelda's Heart Piece", types: ["End", "Hearts", "Sailcloth"] },
   { name: "Duplicate an Ampilus Egg", types: ["Lanayru"] },
   { name: "Updated Lanaryu Desert Map", types: ["Lanayru"] },
   { name: "Five map beacons", types: ["Lanayru"] },
@@ -139,7 +139,7 @@ bingoList[17] = [
 ];
 bingoList[18] = [
   { name: "Cursed Medal", types: ["Medals", "Crystals"] },
-  { name: "Zelda's Gratitude Crystal", types: ["End", "Crystals"] },
+  { name: "Zelda's Gratitude Crystal", types: ["End", "Crystals", "Sailcloth"] },
   { name: "Peatrice's Gratitude Crystals", types: ["Crystals"] },
   { name: "Obtain a Recovery Heart", types: ["Misc"] },
   { name: "Both Life Medals", types: ["Medals"] },
@@ -162,12 +162,12 @@ bingoList[20] = [
   { name: "1500 Rupees", types: ["Rupees"] },
 ];
 bingoList[21] = [
-  { name: "6 Medals", types: ["Medals"] },
   { name: "Open 40 Chests", types: ["Chests"] },
   { name: "16 Goddess Cubes", types: ["Cubes"] },
   { name: "11 Heart Pieces", types: ["Hearts"] },
   { name: "20 Bird Statues", types: ["Statues"] },
   { name: "3 Goddess Plumes", types: ["Treasures"] },
+  { name: "40 Gratitude Crystals", types: ["Crystals", "Imp"] },
 ];
 bingoList[22] = [
   { name: "Talk to Yerbal", types: ["Harp"] },
@@ -182,22 +182,24 @@ bingoList[23] = [
   { name: "Tough Beetle", types: ["Upgrade"] },
   { name: "Stamina Potion+", types: ["Potion"] },
   { name: "Air Potion+", types: ["Potion", "Scale"] },
-  { name: "Divine Shield", types: ["Shields"] },
+  { name: "1900 Rupees", types: ["Rupees"] },
   { name: "5 Unique Shields", types: ["Shields"] },
 ];
 bingoList[24] = [
   { name: "12 Heart Pieces", types: ["Hearts"] },
-  { name: "Both Lumpy Pumpkin Heart Pieces", types: ["Pumpkin", "Hearts", "Harp", "Imp"] },
-  { name: "40 Gratitude Crystals", types: ["Crystals"] },
-  { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },
-  { name: "Goddess Shield", types: ["Shields", "Imp"] },
+  { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
+  { name: "6 Medals", types: ["Medals"] },
+  { name: "Gorko's Heart Piece", types: ["Hearts", "Harp"] },
+  { name: "Sacred Water", types: ["Harp", "Bottles"] },
+  { name: "Divine Shield", types: ["Shields"] },
 ];
 bingoList[25] = [
-  { name: "Gorko's Heart Piece", types: ["Hearts", "Harp"] },
-  { name: "Sacred Water", types: ["Harp"] },
-  { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
+  { name: "50 Gratitude Crystals", types: ["Crystals", "End", "Imp", "Sailcloth"] },
+  { name: "Both Lumpy Pumpkin Heart Pieces", types: ["Pumpkin", "Hearts", "Harp", "Imp"] },
   { name: "3 Unique Iron Shields", types: ["Shields"] },
   { name: "Blessed Idol", types: ["Harp", "Scale"] },
+  { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },
+  { name: "Goddess Shield", types: ["Shields", "Imp"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
