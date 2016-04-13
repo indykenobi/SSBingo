@@ -191,7 +191,7 @@ bingoList[24] = [
   { name: "6 Medals", types: ["Medals"] },
   { name: "Gorko's Heart Piece", types: ["Hearts", "Harp"] },
   { name: "Sacred Water", types: ["Harp", "Bottles"] },
-  { name: "Divine Shield", types: ["Shields"] },
+  { name: "Divine Shield", types: ["Shields", "Imp", "Harp"] },
 ];
 bingoList[25] = [
   { name: "50 Gratitude Crystals", types: ["Crystals", "End", "Imp", "Sailcloth"] },
@@ -199,7 +199,7 @@ bingoList[25] = [
   { name: "3 Unique Iron Shields", types: ["Shields"] },
   { name: "Blessed Idol", types: ["Harp", "Scale"] },
   { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },
-  { name: "Goddess Shield", types: ["Shields", "Imp"] },
+  { name: "Goddess Shield", types: ["Shields", "Imp", "Harp"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
