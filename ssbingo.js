@@ -196,7 +196,7 @@ bingoList[25] = [
   { name: "Air Potion", types: ["Potion", "Scale", "BiT"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Cubes", "Scale"] },  
-  { name: "Never save", types: ["Restriction", "BiT"]},
+  { name: "Never save", types: ["Restriction", "BiT"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
