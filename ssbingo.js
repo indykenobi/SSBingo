@@ -69,7 +69,7 @@ bingoList[9] = [
   { name: "Both Faron Heart Pieces", types: ["Faron", "Hearts"] },
 ];
 bingoList[10] = [
-  { name: "Sleep in every Knight Academy Bed", types: ["Misc", "Sailcloth"]
+  { name: "Sleep in every Knight Academy Bed", types: ["Misc", "Sailcloth"] },
   { name: "28+ cuts at Bamboo Island", types: ["Misc"] },
   { name: "4 Eldin Bird Statues", types: ["Statues", "Eldin"] },
   { name: "Eldin Heart Piece", types: ["Hearts", "Eldin"] },  
