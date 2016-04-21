@@ -90,7 +90,7 @@ bingoList[12] = [
   { name: "Guardian Potion+", types: ["Potions"] },
   { name: "Revitalizing Potion+", types: ["Potions"] },
   { name: "3 Unique Potion Upgrades", types: ["Potions"] },
-  { name: "3 Unique Potions", types: ["Potions"]
+  { name: "3 Unique Potions", types: ["Potions"] },
 ];
 bingoList[13] = [
   { name: "Zelda's Heart Piece", types: ["End", "Hearts", "Sailcloth"] },
