@@ -140,7 +140,6 @@ bingoList[18] = [
   { name: "12 Hearts", types: ["Hearts"] },
   { name: "1500 Rupees", types: ["Rupees"] },
   { name: "8 Heart Pieces", types: ["Hearts"] },
-  { name: "3 Goddess Plumes", types: ["Treasures"] },
 ];
 bingoList[19] = [
   { name: "Fortified Shield", types: ["Shields"] },
@@ -156,8 +155,7 @@ bingoList[20] = [
   { name: "Turn a windmill", types: ["Misc"] },
   { name: "LMF Dungeon Map", types: ["Map", "LMF"] },
   { name: "3 Dungeon Maps", types: ["Map"] },
-  { name: "Never save", types: ["Restriction", "BiT"] },
-  { name: "No Back in Time glitch", types: ["Restriction", "BiT"] },
+  { name: "3 Goddess Plumes", types: ["Treasures"] },
 ];
 bingoList[21] = [
   { name: "16 Goddess Cubes", types: ["Cubes"] },
