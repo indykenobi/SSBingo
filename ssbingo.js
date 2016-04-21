@@ -195,7 +195,7 @@ bingoList[25] = [
   { name: "Cawlin's Letter", types: ["Harp"] },
   { name: "Air Potion", types: ["Scale", "BiT"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
-  { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Cubes", "Scale"] },  
+  { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Scale"] },  
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
