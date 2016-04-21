@@ -140,6 +140,7 @@ bingoList[18] = [
   { name: "12 Hearts", types: ["Hearts"] },
   { name: "1500 Rupees", types: ["Rupees"] },
   { name: "8 Heart Pieces", types: ["Hearts"] },
+  { name: "3 Goddess Plumes", types: ["Treasures"] },
 ];
 bingoList[19] = [
   { name: "Fortified Shield", types: ["Shields"] },
@@ -155,7 +156,8 @@ bingoList[20] = [
   { name: "Turn a windmill", types: ["Misc"] },
   { name: "LMF Dungeon Map", types: ["Map", "LMF"] },
   { name: "3 Dungeon Maps", types: ["Map"] },
-  { name: "3 Goddess Plumes", types: ["Treasures"] },
+  { name: "Never save", types: ["Restriction", "BiT"] },
+  { name: "No Back in Time glitch", types: ["Restriction", "BiT"] },
 ];
 bingoList[21] = [
   { name: "16 Goddess Cubes", types: ["Cubes"] },
@@ -183,8 +185,8 @@ bingoList[23] = [
 ];
 bingoList[24] = [
   { name: "Summon a Gossip Stone", types: ["Harp"] },
-  { name: "No Back in Time glitch", types: ["Restriction", "BiT"] },
-  { name: "Stamina Potion+", types: ["Potion"] },
+  { name: "Get Fairies from a Goddess Wall", types: ["BiT", "Harp"] },
+  { name: "Stamina Potion+", types: ["Potions"] },
   { name: "Water Dragon's Scale", types: ["Harp", "BiT", "Scale"] },
   { name: "Reseal the Imprisoned", types: ["Harp", "Imp"] },
   { name: "Ballad of the Goddess", types: ["Harp"] },
@@ -193,10 +195,9 @@ bingoList[25] = [
   { name: "Talk to Yerbal", types: ["Harp", "BiT"] },
   { name: "Repair Scrapper", types: ["Harp", "Imp"] },
   { name: "Cawlin's Letter", types: ["Harp"] },
-  { name: "Air Potion", types: ["Potion", "Scale", "BiT"] },
+  { name: "Air Potion", types: ["Scale", "BiT"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Cubes", "Scale"] },  
-  { name: "Never save", types: ["Restriction", "BiT"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
