@@ -169,7 +169,7 @@ bingoList[22] = [
   { name: "20 Bird Statues", types: ["Statues", "Harp"] },
   { name: "Open all LMF Chests", types: ["LMF", "Chests"] },
   { name: "Goddess Harp", types: ["Harp"] },
-  { name: "Stamina Potion", types: ["Potion"] },
+  { name: "Stamina Potion", types: ["Potions"] },
   { name: "Temple of Time Bird Statue", types: ["Statues", "Harp"] },
   { name: "8 Lanayru Bird Statues", types: ["Statues", "Harp"] },
 ];
@@ -193,7 +193,7 @@ bingoList[25] = [
   { name: "Talk to Yerbal", types: ["Harp", "BiT"] },
   { name: "Repair Scrapper", types: ["Harp", "Imp"] },
   { name: "Cawlin's Letter", types: ["Harp"] },
-  { name: "Air Potion", types: ["Scale", "BiT"] },
+  { name: "Air Potion", types: ["Potions", "Scale", "BiT"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Scale"] },  
   { name: "All 10 Faron Bird Statues", types: ["Harp", "BiT", "Scale", "Statues"] },
