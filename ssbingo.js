@@ -196,7 +196,7 @@ bingoList[25] = [
   { name: "Air Potion", types: ["Scale", "BiT"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Scale"] },  
-  { name: "10 Faron Bird Statues", types: ["BiT, "Harp", "Scale", "Statues"] },
+  { name: "All 10 Faron Bird Statues", types: ["BiT, "Harp", "Scale", "Statues"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
