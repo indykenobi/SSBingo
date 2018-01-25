@@ -1,4 +1,4 @@
-var bingoListVersion = "2.1";
+var bingoListVersion = "2.2";
 var bingoList = [];
 
 bingoList[1] = [
@@ -24,7 +24,7 @@ bingoList[3] = [
 ];
 bingoList[4] = [
   { name: "Heart Dowsing Target", types: ["Misc"] },  
-  { name: "Floria Waterfall Bird Statue", types: ["Faron"] },
+  { name: "Floria Waterfall Bird Statue", types: ["Faron", "Statues"] },
   { name: "Sailcloth", types: ["Sailcloth", "Skyloft"] },
   { name: "Finish the Sword Tutorial", types: ["Skyloft"] },
   { name: "Finish with 6 Hearts", types: ["Restriction", "Hearts"] },
