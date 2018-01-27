@@ -1,4 +1,4 @@
-var bingoListVersion = "2.2";
+var bingoListVersion = "2.3";
 var bingoList = [];
 
 bingoList[1] = [
@@ -7,6 +7,7 @@ bingoList[1] = [
   { name: "Glittering Spores", types: ["Bottles", "Faron"] },
   { name: "Revitalizing Potion", types: ["Bottles", "Potions"] },
   { name: "Bottled Water", types: ["Bottles"] },
+  { name: "Finish with 6 Hearts", types: ["Restriction", "Hearts"] },
 ];
 bingoList[2] = [
   { name: "Heart Potion", types: ["Potions"] },
@@ -14,12 +15,14 @@ bingoList[2] = [
   { name: "Chandelier Heart Piece", types: ["Hearts", "Pumpkin"] },
   { name: "Complete a ringer skydive", types: ["Sky"] },
   { name: "Mushroom Spores", types: ["Bottles", "Faron"] },
+  { name: "100 Rupees before Faron", types: ["Skyloft", "Rupees"] },
 ];
 bingoList[3] = [
   { name: "Guardian Potion", types: ["Bottles", "Potions"] },
   { name: "Hot Pumpkin Soup", types: ["Bottles"] },
+  { name: "Cold Pumpkin Soup", types: ["Bottles"] },
   { name: "Kill three guays in the sky", types: ["Sky"] },
-  { name: "Beedle's Gratitude Crystal", types: ["Crystals"] },
+  { name: "Beedle's Scattered Crystal", types: ["Crystals"] },
   { name: "10 Blessed Butterflies", types: ["Bugs"] },
 ];
 bingoList[4] = [
@@ -27,7 +30,8 @@ bingoList[4] = [
   { name: "Floria Waterfall Bird Statue", types: ["Faron", "Statues"] },
   { name: "Sailcloth", types: ["Sailcloth", "Skyloft"] },
   { name: "Finish the Sword Tutorial", types: ["Skyloft"] },
-  { name: "Finish with 6 Hearts", types: ["Restriction", "Hearts"] },
+  { name: "Two Lumpy Pumpkin Scattered Crystals", types: ["Crystals", "Pumpkin"] },
+  { name: "Skyview Temple Heart Piece", types: ["Skyview", "Hearts"] },
 ];
 bingoList[5] = [
   { name: "3 Extra Wallets", types: ["Rupees"] },
@@ -35,6 +39,7 @@ bingoList[5] = [
   { name: "5 Starry Fireflies", types: ["Bugs"] },
   { name: "Sleep in Zelda's Bed", types: ["Skyloft", "Sailcloth"] },
   { name: "Win the Wing Ceremony Twice", types: ["BiT", "Skyloft"] },
+  { name: "Bring Hot Soup to Eagus", types: ["Bottles", "Pumpkin"] },
 ];
 bingoList[6] = [
   { name: "3 Blue Bird Feathers", types: ["Treasures"] },
@@ -53,7 +58,7 @@ bingoList[7] = [
   { name: "500 Rupees", types: ["Rupees"] },
 ];
 bingoList[8] = [
-  { name: "10 Scattered Gratitude Crystals", types: ["Crystals"] },
+  { name: "10 Scattered Crystals", types: ["Crystals"] },
   { name: "3 Bottles", types: ["Bottles"] },
   { name: "Batreaux's Heart Piece", types: ["Hearts", "Crystals"] },
   { name: "Orielle's Gratitude Crystals", types: ["Crystals"] },
@@ -140,6 +145,7 @@ bingoList[18] = [
   { name: "12 Hearts", types: ["Hearts"] },
   { name: "1500 Rupees", types: ["Rupees"] },
   { name: "8 Heart Pieces", types: ["Hearts"] },
+  { name: "All 15 Scattered Crystals", types: ["Crystals"] },
 ];
 bingoList[19] = [
   { name: "Fortified Shield", types: ["Shields"] },
