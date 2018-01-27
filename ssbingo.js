@@ -7,7 +7,7 @@ bingoList[1] = [
   { name: "Glittering Spores", types: ["Bottles", "Faron"] },
   { name: "Revitalizing Potion", types: ["Bottles", "Potions"] },
   { name: "Bottled Water", types: ["Bottles"] },
-  { name: "Finish with 6 Hearts", types: ["Restriction", "Hearts"] },
+  { name: "Sailcloth", types: ["Sailcloth", "Skyloft"] },
 ];
 bingoList[2] = [
   { name: "Heart Potion", types: ["Potions"] },
@@ -28,7 +28,7 @@ bingoList[3] = [
 bingoList[4] = [
   { name: "Heart Dowsing Target", types: ["Misc"] },  
   { name: "Floria Waterfall Bird Statue", types: ["Faron", "Statues"] },
-  { name: "Sailcloth", types: ["Sailcloth", "Skyloft"] },
+  { name: "Both Deep Woods Statues", types: ["Faron", "Statues"] },
   { name: "Finish the Sword Tutorial", types: ["Skyloft"] },
   { name: "Two Lumpy Pumpkin Scattered Crystals", types: ["Crystals", "Pumpkin"] },
   { name: "Skyview Temple Heart Piece", types: ["Skyview", "Hearts"] },
