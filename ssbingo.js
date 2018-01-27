@@ -1,4 +1,4 @@
-var bingoListVersion = "2.3";
+var bingoListVersion = "2.4";
 var bingoList = [];
 
 bingoList[1] = [
@@ -7,15 +7,15 @@ bingoList[1] = [
   { name: "Glittering Spores", types: ["Bottles", "Faron"] },
   { name: "Revitalizing Potion", types: ["Bottles", "Potions"] },
   { name: "Bottled Water", types: ["Bottles"] },
-  { name: "Sailcloth", types: ["Sailcloth", "Skyloft"] },
+  { name: "Practice Sword", types: ["Skyloft"] },
 ];
 bingoList[2] = [
   { name: "Heart Potion", types: ["Potions"] },
-  { name: "Practice Sword", types: ["Skyloft"] },
   { name: "Chandelier Heart Piece", types: ["Hearts", "Pumpkin"] },
   { name: "Complete a ringer skydive", types: ["Sky"] },
   { name: "Mushroom Spores", types: ["Bottles", "Faron"] },
   { name: "100 Rupees before Faron", types: ["Skyloft", "Rupees"] },
+  { name: "Sailcloth", types: ["Sailcloth", "Skyloft"] },
 ];
 bingoList[3] = [
   { name: "Guardian Potion", types: ["Bottles", "Potions"] },
