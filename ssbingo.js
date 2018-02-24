@@ -118,7 +118,7 @@ bingoList[15] = [
   { name: "1000 Rupees", types: ["Rupees"] },
   { name: "10 Goddess Cubes", types: ["Cubes"] },
   { name: "30 Bombs", types: ["Ammo"] },
-  { name: "Bug Medal", types: ["Medals"] },
+  { name: "Bug Medal", types: ["Medals", "Rupees"] },
   { name: "Reinforced Shield", types: ["Shields"] },
 ];
 bingoList[16] = [
