@@ -83,7 +83,7 @@ bingoList[10] = [
 ];
 bingoList[11] = [
   { name: "10 Volcanic Ladybugs", types: ["Bugs"] },
-  { name: "60 Deku Seeds", types: ["Ammo"] },
+  { name: "60 Deku Seed Capacity", types: ["Ammo"] },
   { name: "5 Eldin Ore", types: ["Treasures"] },
   { name: "3 Medals", types: ["Medals"] },
   { name: "Treasure Medal", types: ["Medals"] },
@@ -117,7 +117,7 @@ bingoList[15] = [
   { name: "7 Pouch Slots", types: ["Pouch", "Rupees"] },
   { name: "1000 Rupees", types: ["Rupees"] },
   { name: "10 Goddess Cubes", types: ["Cubes"] },
-  { name: "30 Bombs", types: ["Ammo"] },
+  { name: "30 Bomb Capacity", types: ["Ammo"] },
   { name: "Bug Medal", types: ["Medals", "Rupees"] },
   { name: "Reinforced Shield", types: ["Shields"] },
 ];
