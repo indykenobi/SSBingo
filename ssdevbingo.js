@@ -170,36 +170,37 @@ bingoList[21] = [
   { name: "Goddess Harp", types: ["Harp"] },
   { name: "Temple of Time Bird Statue", types: ["Statues", "Harp"] },
   { name: "16 Goddess Cubes", types: ["Cubes"] },
-  { name: "8 Lanayru Bird Statues", types: ["Statues", "Harp"] },  
+  { name: "Stamina Potion", types: ["Potions"] },
   { name: "Open 40 Chests", types: ["Chests"] },
 ];
 bingoList[22] = [
-  { name: "Stamina Potion", types: ["Potions"] },
+  { name: "8 Lanayru Bird Statues", types: ["Statues", "Harp"] },    
   { name: "20 Bird Statues", types: ["Statues", "Harp"] },
   { name: "5 Unique Shields", types: ["Shields"] },
   { name: "40 Gratitude Crystals", types: ["Crystals", "Imp"] },
   { name: "Ballad of the Goddess", types: ["Harp"] },
+  { name: "Stamina Potion+", types: ["Potions"] },
 ];
 bingoList[23] = [
   { name: "Scattershot", types: ["Upgrade", "Harp", "BiT"] },
-  { name: "Stamina Potion+", types: ["Potions"] },
   { name: "6 Medals", types: ["Medals"] },
   { name: "Reseal the Imprisoned", types: ["Harp", "Imp"] },
   { name: "3 Unique Iron Shields", types: ["Shields"] },
   { name: "Water Dragon's Scale", types: ["Harp", "BiT", "Scale"] },  
+  { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
 ];
 bingoList[24] = [
   { name: "Summon a Gossip Stone", types: ["Harp"] },
   { name: "Get Fairies from a Goddess Wall", types: ["BiT", "Harp"] },
-  { name: "8 Pouch Slots", types: ["Pouch", "Rupees"] },
   { name: "Air Potion", types: ["Potions", "Scale", "BiT"] },
   { name: "Lake Floria Goddess Cube", types: ["Harp", "BiT", "Scale"] },  
   { name: "Talk to Yerbal", types: ["Harp", "BiT"] },
+  { name: "Repair Scrapper", types: ["Harp", "Imp"] },
 ];
 bingoList[25] = [
   { name: "1900 Rupees", types: ["Rupees"] },
   { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },  
-  { name: "Repair Scrapper", types: ["Harp", "Imp"] },
+  { name: "Raise the Light Tower", types: ["Harp", "Imp"] },
   { name: "Cawlin's Letter", types: ["Harp"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "All 10 Faron Bird Statues", types: ["Harp", "BiT", "Scale", "Statues"] },
