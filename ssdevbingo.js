@@ -169,7 +169,6 @@ bingoList[21] = [
   { name: "Open all LMF Chests", types: ["LMF", "Chests"] },
   { name: "Goddess Harp", types: ["Harp"] },
   { name: "Temple of Time Bird Statue", types: ["Statues", "Harp"] },
-  { name: "16 Goddess Cubes", types: ["Cubes"] },
   { name: "Stamina Potion", types: ["Potions"] },
   { name: "Open 40 Chests", types: ["Chests"] },
 ];
@@ -204,6 +203,7 @@ bingoList[25] = [
   { name: "Cawlin's Letter", types: ["Harp"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "All 10 Faron Bird Statues", types: ["Harp", "BiT", "Scale", "Statues"] },
+  { name: "Drink 1 of Each Basic Potion", types: ["Harp", "BiT", "Scale", "Potions"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
