@@ -171,6 +171,7 @@ bingoList[21] = [
   { name: "Temple of Time Bird Statue", types: ["Statues", "Harp"] },
   { name: "Stamina Potion", types: ["Potions"] },
   { name: "Open 40 Chests", types: ["Chests"] },
+  { name: "Cawlin's Letter", types: ["Harp"] },
 ];
 bingoList[22] = [
   { name: "8 Lanayru Bird Statues", types: ["Statues", "Harp"] },    
@@ -200,7 +201,6 @@ bingoList[25] = [
   { name: "1900 Rupees", types: ["Rupees"] },
   { name: "Beedle's Heart Piece", types: ["Hearts", "Rupees"] },  
   { name: "Raise the Light Tower", types: ["Harp", "Imp"] },
-  { name: "Cawlin's Letter", types: ["Harp"] },
   { name: "Sacred Shield", types: ["Shields", "Imp", "Harp"] },
   { name: "All 10 Faron Bird Statues", types: ["Harp", "BiT", "Scale", "Statues"] },
   { name: "Drink 1 of Each Basic Potion", types: ["Harp", "BiT", "Scale", "Potions"] },
